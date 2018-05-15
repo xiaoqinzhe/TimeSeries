@@ -1,0 +1,16 @@
+# byte-compiled
+__pycache__/*
+
+# project file
+*.temp
+/.idea/*
+
+# logs/temp
+logs/
+saved_model/*
+
+# raw data
+/data/stocks/raw/*
+
+# too large data
+/data/house_consumption/*
